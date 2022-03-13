@@ -7,7 +7,7 @@
 
 ### - 💬 Ask me about anything you want
 
-### - 📫 How to reach me: Discord (My discord server: [https://discord.gg/c9hEp5BnNU](Here!)
+### - 📫 How to reach me: Discord (My discord server: [https://discord.gg/c9hEp5BnNU](Here!))
 
 ### - 😄 Pronouns: He/Him
 
