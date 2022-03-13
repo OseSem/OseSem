@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ## - 🔭 I’m currently working on Sem's Place
+# @ [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=933395786602012703&permissions=0&scope=bot%20applications.commands)
+# @ [Server Invite](https://discord.gg/c9hEp5BnNU)
 
 ## - 🌱 I’m currently learning Python
 
