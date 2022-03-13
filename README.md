@@ -11,7 +11,7 @@
 
 ### - 😄 Pronouns: He/Him
 
-[An Internal Link](/https://discord.gg/c9hEp5BnNU)
+[An Internal Link](https://discord.gg/c9hEp5BnNU)
 <!--
 **OseSem/OseSem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
