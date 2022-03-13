@@ -5,9 +5,9 @@
 
 [Server Invite](https://discord.gg/c9hEp5BnNU)
 
-## - 🌱 I’m currently learning Python
+## - 🌱 I’m currently learning [Python](https://python.org)
 
-## - 🤔 I’m looking for help with [Python](https://python.org) (Discord Bots)
+## - 🤔 I’m willing to help you with [Python](https://python.org) (Discord Bots)
 
 ## - 💬 Ask me about anything you want
 
