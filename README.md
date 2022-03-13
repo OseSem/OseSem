@@ -7,11 +7,10 @@
 
 ### - 💬 Ask me about anything you want
 
-### - 📫 How to reach me: Discord (My discord server: (Here!)[https://discord.gg/c9hEp5BnNU])
+### - 📫 How to reach me: Discord (My discord server: [Invite...](https://discord.gg/c9hEp5BnNU))
 
 ### - 😄 Pronouns: He/Him
 
-[An Internal Link](https://discord.gg/c9hEp5BnNU)
 <!--
 **OseSem/OseSem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
