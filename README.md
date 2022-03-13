@@ -1,15 +1,15 @@
-### Hi there 👋
-##- 🔭 I’m currently working on Sem's Place
+#### Hi there 👋
+### - 🔭 I’m currently working on Sem's Place
 
-##- 🌱 I’m currently learning Python
+### - 🌱 I’m currently learning Python
 
-##- 🤔 I’m looking for help with Python (Discord Bots)
+### - 🤔 I’m looking for help with Python (Discord Bots)
 
-##- 💬 Ask me about anything you want
+### - 💬 Ask me about anything you want
 
-##- 📫 How to reach me: Discord (My discord server)
+### - 📫 How to reach me: Discord (My discord server)
 
-##- 😄 Pronouns: He/Him
+### - 😄 Pronouns: He/Him
 
 
 <!--
