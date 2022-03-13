@@ -1,16 +1,16 @@
-#### Hi there 👋
+### Hi there 👋
 
-### - 🔭 I’m currently working on Sem's Place
+## - 🔭 I’m currently working on Sem's Place
 
-### - 🌱 I’m currently learning Python
+## - 🌱 I’m currently learning Python
 
-### - 🤔 I’m looking for help with Python (Discord Bots)
+## - 🤔 I’m looking for help with Python (Discord Bots)
 
-### - 💬 Ask me about anything you want
+## - 💬 Ask me about anything you want
 
-### - 📫 How to reach me: Discord (My discord server: [Invite](https://discord.gg/c9hEp5BnNU))
+## - 📫 How to reach me: Discord (My discord server: [Invite](https://discord.gg/c9hEp5BnNU))
 
-### - 😄 Pronouns: He/Him
+## - 😄 Pronouns: He/Him
 
 <!--
 **OseSem/OseSem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
