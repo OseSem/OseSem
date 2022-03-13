@@ -7,7 +7,7 @@
 
 ## - 🌱 I’m currently learning Python
 
-## - 🤔 I’m looking for help with Python (Discord Bots)
+## - 🤔 I’m looking for help with [Python](https://python.org) (Discord Bots)
 
 ## - 💬 Ask me about anything you want
 
