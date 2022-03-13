@@ -1,4 +1,5 @@
 #### Hi there 👋
+
 ### - 🔭 I’m currently working on Sem's Place
 
 ### - 🌱 I’m currently learning Python
