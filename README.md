@@ -10,7 +10,7 @@
 </a>&nbsp;&nbsp;
 </p>
 
-I am a self-thought python developer, but I am also learning other languages now. I specialize in writing discord bots and managing code. 
+I am a self-taught python developer, but I am also learning other languages now. I specialize in writing discord bots and managing code. 
 
 >[!NOTE]
 > Feel free to dm me anytime my discord is **`OseSem`**.
