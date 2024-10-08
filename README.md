@@ -18,6 +18,6 @@ I am a self-taught python developer, but I am also learning other languages now.
 <h3 align="center">Now playing on spotify:</h3>
 <p align='center'>
  <a href="https://github.com/sponsors/osesem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31o2q3drhwkdfkqwzzkazngqy3fm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />        
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2kmggwcm20etopenuxqme6ihn&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=4bc846&bar_color_cover=false" />        
   </a>&nbsp;&nbsp;
 </p>
