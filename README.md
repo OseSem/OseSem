@@ -30,18 +30,6 @@ Self-taught developer. I like building tools that interact with APIs and mess ar
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OseSem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OseSem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### Get in Touch
 
 Open to collaboration - feel free to reach out.
