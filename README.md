@@ -1,4 +1,16 @@
-<h1 align="center">Hey, I'm Sem 👋</h1>
+<h2 align="left">Sem</h2>
+
+### About
+
+Self-taught developer from the Netherlands. Mostly interested in Python, Go and Rust.
+
+### Projects
+
+- [**twinbird**](https://github.com/osesem/twinbird): Run multiple NetBird instances on one machine with isolated configs, sockets, and interfaces.
+- [**battlemetrics**](https://github.com/osesem/battlemetrics): Async Python wrapper for the BattleMetrics API.
+- [**gno**](https://github.com/osesem/gno): Interactive CLI for building .gitignore files.
+- [**dotfiles**](https://github.com/osesem/dotfiles): My personal setup for Windows and maybe soon Linux.
+
 
 <p align="center">
   <a href="mailto:sem@osesem.xyz">
@@ -10,21 +22,4 @@
   <a href="https://github.com/sponsors/osesem">
     <img src="https://img.shields.io/badge/Sponsor-♥-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor" />
   </a>
-</p>
-
----
-
-### About Me
-
-Self-taught developer. I like building tools that interact with APIs and mess around with Discord bots in my free time. Currently picking up new languages and seeing what sticks.
-
----
-
-### Get in Touch
-
-Open to collaboration - feel free to reach out.
-
-<p align="center">
-  <a href="mailto:sem@osesem.xyz">Email</a> · 
-  <a href="https://discord.com/users/OseSem">Discord</a>
 </p>
