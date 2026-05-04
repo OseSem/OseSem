@@ -6,9 +6,7 @@ Self-taught developer from the Netherlands. Mostly interested in Python, Go and 
 
 ### Projects
 
-- [**twinbird**](https://github.com/osesem/twinbird): Run multiple NetBird instances on one machine with isolated configs, sockets, and interfaces.
 - [**battlemetrics**](https://github.com/osesem/battlemetrics): Async Python wrapper for the BattleMetrics API.
-- [**gno**](https://github.com/osesem/gno): Interactive CLI for building .gitignore files.
 - [**dotfiles**](https://github.com/osesem/dotfiles): My personal setup for Windows and maybe soon Linux.
 
 
